@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Analysis Report
+# 📊 Contoso Sales Analysis Report
 
 A fully interactive Power BI dashboard built using the **Contoso Dataset** to analyze Net Profits, Sales Quantity, and Year-over-Year performance. This report provides insights into sales trends, brand profitability, and regional performance with dynamic filters and drill-down capabilities.
 
