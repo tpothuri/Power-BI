@@ -35,8 +35,7 @@ A fully interactive Power BI dashboard built using the **Contoso Dataset** to an
    - Download from [Power BI Official Site](https://powerbi.microsoft.com/desktop)
 
 2. **Download the Contoso Dataset**
-   - [Contoso Retail DW Sample Database (Microsoft)](https://learn.microsoft.com/en-us/power-bi/sample-contoso-download)
-   - Attached files under Contoso Data Model folder.
+   - [Attached files under Contoso Dataset folder](https://drive.google.com/drive/folders/1hoyibRdJ2FTQLD6Jq7OdXwVVlhlcWkkT?usp=sharing).
 
 3. **Clone this Repository**
    ```bash
@@ -58,10 +57,6 @@ A fully interactive Power BI dashboard built using the **Contoso Dataset** to an
 ```plaintext
 /
 ├── Contoso-Sales-Analysis.pbix            # Power BI report file
-├── Contoso Dataset/                       # Folder containing raw and lookup data files (Contains files related to data tables, lookup tables and source files
-│           ├── Data Tables/               # Fact tables such as Sales, Returns, etc.
-│           ├── Lookup Tables/             # Dimension tables like Product, Date, Customer, etc.
-│           └── Source Files/              # Raw or CSV import files used in Power BI
 ├── README.md                              # Project documentation
 └── assets/                                # (Optional) Folder for additional visuals or resources
      └──Contoso Report.png                 # Dashboard preview image
