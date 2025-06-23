@@ -31,7 +31,7 @@ A fully interactive Power BI dashboard built using the **Contoso Dataset** to an
 
 ## 🧰 Technologies Used
 
-- 🟨 Power BI (.pbix) *.pbix linguist-documentation
+- 🟨 Power BI (.pbix)
 - 🧠 DAX (Data Analysis Expressions)
 - 🔷 Power Query (M)
 - 📄 Markdown (.md)
