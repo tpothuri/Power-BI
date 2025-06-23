@@ -16,7 +16,7 @@ Each project is organized into a separate **branch** for better modularity and f
 | Branch Name               | Description                                      |
 |---------------------------|--------------------------------------------------|
 | `main`                    | Overview and navigation guide                   |
-| `contoso-sales-dashboard` | Contoso Dataset: Net Profit & YoY Sales Report  |
+| `Contoso-BI-Dashboard` | Contoso Dataset: Net Profit & YoY Sales Report  |
 
 > 💡 Each branch contains its own `.pbix` file, visuals, and README with setup steps and project summary.
 
@@ -24,9 +24,9 @@ Each project is organized into a separate **branch** for better modularity and f
 
 ## 🖼️ Dashboard Preview
 
-![Contoso Power BI Dashboard](./23b0ca54-4c56-49df-b339-5141e041c536.png)
+![Contoso-Sales-Analysis-Dashboard](https://github.com/tpothuri/Power-BI/blob/Contoso-BI-Dashoard/assets/Contoso%20Report.jpg)
 
-> 📌 Preview from `contoso-sales-dashboard` branch
+> 📌 Preview from `Contoso-BI-Dashboard` branch
 
 ---
 
