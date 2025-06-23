@@ -50,7 +50,7 @@ A fully interactive Power BI dashboard built using the **Contoso Dataset** to an
 
 ## 🖼️ Dashboard Preview
 
-![Contoso Power BI Dashboard](./assets/Contoso Report.png)
+![Contoso Power BI Dashboard](https://github.com/tpothuri/Power-BI/blob/Contoso-BI-Dashoard/assets/Contoso%20Report.jpg)
   
 ## 🗂️ File Structure
 
