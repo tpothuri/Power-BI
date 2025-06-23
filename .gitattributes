@@ -1,0 +1,4 @@
+*.pbix linguist-documentation
+*.json linguist-data
+*.py linguist-language=Python
+*.m linguist-language=PowerQuery
